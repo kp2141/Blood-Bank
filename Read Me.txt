@@ -11,16 +11,11 @@ Server: Glassfish 4
 
 ....................................................
 
-simply import database 
-
-how to import ???
-copy below link and watch video
-
-https://www.youtube.com/watch?v=9icY7xwXbJo
+Created in semester 6 as a advanced java project
 
 ....................................................
 
-import bloodbank.zip file in netbenas....
+
 
 
 
